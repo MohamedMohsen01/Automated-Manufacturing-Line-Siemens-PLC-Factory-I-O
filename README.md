@@ -54,6 +54,10 @@ The PLC logic handles:
 - Operating conditions
 - Fault conditions
 
+<img width="1910" height="1004" alt="Screenshot 2026-08-27 194249" src="https://github.com/user-attachments/assets/f2174e6b-98ea-4f65-89f9-58a8cd86029a" />
+
+
+
 ## Factory I/O Integration
 
 Factory I/O is connected to the simulated PLC through S7-PLCSIM.
