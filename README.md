@@ -55,9 +55,6 @@ The PLC logic handles:
 - Fault conditions
 
 <img width="1910" height="1004" alt="Screenshot 2026-08-27 194249" src="https://github.com/user-attachments/assets/f2174e6b-98ea-4f65-89f9-58a8cd86029a" />
-<img width="1910" height="1032" alt="Screenshot 2026-08-27 194449" src="https://github.com/user-attachments/assets/105cf0e2-ac20-47f7-b273-aeeaa1145f60" />
-<img width="1910" height="1027" alt="Screenshot 2026-08-27 194859" src="https://github.com/user-attachments/assets/b8ecbae8-7572-4aab-9ba9-41aa9c010277" />
-
 
 
 ## Factory I/O Integration
@@ -76,6 +73,9 @@ PLC outputs are mapped back to Factory I/O to control things such as:
 
 This allowed me to test the full PLC sequence in a 3D environment before using any physical hardware.
 
+<img width="1898" height="1019" alt="Screenshot 2026-08-27 193601" src="https://github.com/user-attachments/assets/b781e35b-935d-43ba-b945-17ea2dc93fef" />
+
+
 ## HMI
 
 The HMI is used to monitor and control the production line.
@@ -88,3 +88,7 @@ Depending on the operating condition, the HMI can be used to:
 - Monitor equipment status
 - View system conditions
 - Identify faults
+
+<img width="1910" height="1028" alt="Screenshot 2026-08-27 195227" src="https://github.com/user-attachments/assets/f68f5ddc-f268-4fc3-92e6-e6f768e3f041" />
+<img width="1910" height="1029" alt="Screenshot 2026-08-27 193949" src="https://github.com/user-attachments/assets/ac69f2c8-19fc-4236-b5b1-33bf2e65506b" />
+<img width="1910" height="1025" alt="Screenshot 2026-08-27 195429" src="https://github.com/user-attachments/assets/29d5450c-aafb-4358-9570-71a43bf3d453" />
