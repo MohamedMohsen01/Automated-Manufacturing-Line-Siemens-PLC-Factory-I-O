@@ -55,6 +55,8 @@ The PLC logic handles:
 - Fault conditions
 
 <img width="1910" height="1004" alt="Screenshot 2026-08-27 194249" src="https://github.com/user-attachments/assets/f2174e6b-98ea-4f65-89f9-58a8cd86029a" />
+<img width="1910" height="1032" alt="Screenshot 2026-08-27 194449" src="https://github.com/user-attachments/assets/105cf0e2-ac20-47f7-b273-aeeaa1145f60" />
+<img width="1910" height="1027" alt="Screenshot 2026-08-27 194859" src="https://github.com/user-attachments/assets/b8ecbae8-7572-4aab-9ba9-41aa9c010277" />
 
 
 
