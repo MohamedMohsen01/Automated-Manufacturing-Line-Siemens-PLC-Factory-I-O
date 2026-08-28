@@ -1,4 +1,4 @@
-## Automated Manufacturing Line – Siemens TIA Portal & Factory I/O
+# Automated Manufacturing Line – Siemens TIA Portal & Factory I/O
 
 This project is a simulated automated manufacturing line using Siemens TIA Portal, S7-PLCSIM, and Factory I/O.
 
