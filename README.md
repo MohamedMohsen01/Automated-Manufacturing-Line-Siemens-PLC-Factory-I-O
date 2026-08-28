@@ -55,7 +55,7 @@ The PLC logic handles:
 - Fault conditions
 
 <img width="1910" height="1004" alt="Screenshot 2026-08-27 194249" src="https://github.com/user-attachments/assets/f2174e6b-98ea-4f65-89f9-58a8cd86029a" />
-
+<img width="1910" height="1028" alt="Screenshot 2026-08-27 195227" src="https://github.com/user-attachments/assets/f68f5ddc-f268-4fc3-92e6-e6f768e3f041" />
 
 ## Factory I/O Integration
 
@@ -89,6 +89,5 @@ Depending on the operating condition, the HMI can be used to:
 - View system conditions
 - Identify faults
 
-<img width="1910" height="1028" alt="Screenshot 2026-08-27 195227" src="https://github.com/user-attachments/assets/f68f5ddc-f268-4fc3-92e6-e6f768e3f041" />
 <img width="1910" height="1029" alt="Screenshot 2026-08-27 193949" src="https://github.com/user-attachments/assets/ac69f2c8-19fc-4236-b5b1-33bf2e65506b" />
 <img width="1910" height="1025" alt="Screenshot 2026-08-27 195429" src="https://github.com/user-attachments/assets/29d5450c-aafb-4358-9570-71a43bf3d453" />
