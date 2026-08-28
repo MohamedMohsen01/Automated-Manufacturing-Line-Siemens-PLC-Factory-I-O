@@ -95,4 +95,4 @@ Depending on the operating condition, the HMI can be used to:
 
 ## project video link
 
-[https://drive.google.com/drive/folders/1QvybJ1SnndVTOGTmAKarzBqqVmDQEwEX](https://drive.google.com/drive/folders/1QvybJ1SnndVTOGTmAKarzBqqVmDQEwEX)
+https://drive.google.com/drive/folders/1QvybJ1SnndVTOGTmAKarzBqqVmDQEwEX
