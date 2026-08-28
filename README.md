@@ -91,3 +91,8 @@ Depending on the operating condition, the HMI can be used to:
 
 <img width="1910" height="1029" alt="Screenshot 2026-08-27 193949" src="https://github.com/user-attachments/assets/ac69f2c8-19fc-4236-b5b1-33bf2e65506b" />
 <img width="1910" height="1025" alt="Screenshot 2026-08-27 195429" src="https://github.com/user-attachments/assets/29d5450c-aafb-4358-9570-71a43bf3d453" />
+
+
+## project video link
+
+https://drive.google.com/drive/folders/1QvybJ1SnndVTOGTmAKarzBqqVmDQEwEX
