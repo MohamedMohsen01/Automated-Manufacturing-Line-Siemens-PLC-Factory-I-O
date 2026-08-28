@@ -1,6 +1,6 @@
 # Automated Manufacturing Line – Siemens TIA Portal & Factory I/O
 
-This project is a simulated automated manufacturing line that I built using Siemens TIA Portal, S7-PLCSIM, and Factory I/O.
+This project is a simulated automated manufacturing line using Siemens TIA Portal, S7-PLCSIM, and Factory I/O.
 
 The line handles parts through different stages including feeding, machining, material transfer, sorting, and assembly. The PLC controls the sequence based on sensor feedback and sends commands to conveyors, actuators, and pick-and-place mechanisms.
 
