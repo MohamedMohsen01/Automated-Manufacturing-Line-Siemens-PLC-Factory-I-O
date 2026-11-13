@@ -1,3 +1,5 @@
+<img width="1910" height="1002" alt="Screenshot 2026-08-27 193843" src="https://github.com/user-attachments/assets/cafd5c9b-7414-413b-b11e-b33dee683672" />
+<img width="1910" height="1033" alt="Screenshot 2026-08-27 193805" src="https://github.com/user-attachments/assets/508ecc93-f0d8-46b1-af83-88f3c9fbe4ca" />
 # Automated Manufacturing Line – Siemens TIA Portal & Factory I/O
 
 This project is a simulated automated manufacturing line using Siemens TIA Portal, S7-PLCSIM, and Factory I/O.
