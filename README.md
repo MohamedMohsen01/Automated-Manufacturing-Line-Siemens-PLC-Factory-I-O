@@ -55,8 +55,8 @@ The PLC logic handles:
 - Fault conditions
 
 <img width="1910" height="1004" alt="Screenshot 2026-08-27 194249" src="https://github.com/user-attachments/assets/f2174e6b-98ea-4f65-89f9-58a8cd86029a" />
-<img width="1910" height="1002" alt="Screenshot 2026-08-27 193843" src="https://github.com/user-attachments/assets/cafd5c9b-7414-413b-b11e-b33dee683672" />
-<img width="1910" height="1033" alt="Screenshot 2026-08-27 193805" src="https://github.com/user-attachments/assets/508ecc93-f0d8-46b1-af83-88f3c9fbe4ca" />
+<img width="1910" height="1031" alt="Screenshot 2026-08-27 193914" src="https://github.com/user-attachments/assets/97a98963-49d0-4d25-8d7a-7f710d41b1c4" />
+<img width="1910" height="1002" alt="Screenshot 2026-08-27 193843" src="https://github.com/user-attachments/assets/4be5d36e-3b15-4fa4-9704-ac25ab71148b" />
 <img width="1910" height="1028" alt="Screenshot 2026-08-27 195227" src="https://github.com/user-attachments/assets/f68f5ddc-f268-4fc3-92e6-e6f768e3f041" />
 
 ## Factory I/O Integration
